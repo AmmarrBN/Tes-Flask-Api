@@ -1,0 +1,7 @@
+fake_useragent
+wraps
+flask_restful
+jwt
+flask
+requests
+colorama
