@@ -187,7 +187,7 @@ class InstaFoll(Resource):
             'sec-fetch-dest':'empty',
             'sec-fetch-mode':'cors',
             'sec-fetch-site':'same-origin',
-            'user-agent':f'{ua}',
+            'user-agent':ua,
             'x-requested-with':'XMLHttpRequest',
         }
         Username = request.form.get('username')
