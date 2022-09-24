@@ -212,7 +212,7 @@ class InstaFoll(Resource):
             return (
             {
                 "success": True,
-                "response": "Success Add 10 followers to ypur account",
+                "response": "Success Add 10 followers to your account",
                 "creator": "Ammar-Executed"
             }
         )
