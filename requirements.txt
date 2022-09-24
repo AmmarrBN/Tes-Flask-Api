@@ -1,8 +1,0 @@
-flask
-flask_restful
-flask_cors
-flask_sqlalchemy
-fake_useragent
-requests
-colorama
-bs4
